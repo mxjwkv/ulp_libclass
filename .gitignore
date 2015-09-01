@@ -1,0 +1,57 @@
+# Git Ignore Files
+#     Created: 21-AUG-2015
+# Last Update: 01-SEP-2015
+
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# IDE files
+*.ncb
+*.suo
+*.user
+[Dd]ebug*/
+[Rr]elease*/
+[Bb]in/
+[Oo]bj/
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.x
+
+# Other
+Thumbs.db
+*.pdb
+*.vspscc
+*.tlb
+*.tlh
+*.sbr
+*.bak
+*.cache
+*.ilk
+*.log
+*.lgg
+*.dfl
+#__build_num*.h
+# *.dat - we DO want dat files in git
+*.*_
+*.*~
+
