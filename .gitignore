@@ -20,6 +20,8 @@
 *.ncb
 *.suo
 *.user
+*.layout
+*.depend
 [Dd]ebug*/
 [Rr]elease*/
 [Bb]in/
